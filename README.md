@@ -1,4 +1,4 @@
-# 🚀 Employee Resignation Prediction | XGBoost vs CatBoost Regressors
+## 🚀 Employee Resignation Prediction | XGBoost vs CatBoost Regressors
 ![Employee Resignation Prediction](image.jpg)
 
 ## 🌐 Overview
