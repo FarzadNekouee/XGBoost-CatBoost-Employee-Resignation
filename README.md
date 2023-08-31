@@ -51,6 +51,6 @@ The dataset comprises various metrics related to employees. The features of the 
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
 
 ## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/farzadnekouei/code).
+- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/employee-turnover-prediction-xgboost-vs-catboost).
 - 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
 
